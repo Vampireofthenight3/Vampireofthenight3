@@ -1,7 +1,4 @@
 ### Hi there 👋 My name is Alaina Getu, but I go by Ella. I am in Digital Game Developement in my sophomore year. 🕷🕸🍂🎃🎮🔮🦝
-⋆༺𓆩☠︎︎𓆪༻⋆✩ ♬ ₊.🎧⋆☾⋆⁺₊✧🎸⋆⭒｡⋆𐐘🍜ඞ⋆⁺‧₊☽◯☾₊‧⁺⋆·:*¨༺ ♱✮♱ ༻¨*:·🃜🃚🃖🃁🂭🂺(ฅ^•ﻌ•^ฅ)☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮🎶🧟‍♀️🧟‍♀️🧟‍♀️🎶
-<!--
-**Vampireofthenight3/Vampireofthenight3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I love it when we finish creating a game an it looks better than I expected it to. I want to create a horror fantasy game to play with my friends.
 
 - 🔭 I’m currently working on my Readme assignment
@@ -13,3 +10,7 @@ I love it when we finish creating a game an it looks better than I expected it t
 - 😄 Pronouns: Any (she/her is commonly used)
 - ⚡ Fun fact: I have a black cat
 -->
+
+⋆༺𓆩☠︎︎𓆪༻⋆✩ ♬ ₊.🎧⋆☾⋆⁺₊✧🎸⋆⭒｡⋆𐐘🍜ඞ⋆⁺‧₊☽◯☾₊‧⁺⋆·:*¨༺ ♱✮♱ ༻¨*:·🃜🃚🃖🃁🂭🂺(ฅ^•ﻌ•^ฅ)☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮☠⏮🎶🧟‍♀️🧟‍♀️🧟‍♀️🎶⋆༺𓆩☠︎︎𓆪༻⋆
+<!--
+**Vampireofthenight3/Vampireofthenight3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
